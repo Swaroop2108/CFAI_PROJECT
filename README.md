@@ -1,8 +1,8 @@
 """
 ╔══════════════════════════════════════════════════════════╗
-║         EXPLAINABLE AI (XAI) REASONING ENGINE                              ║
-║         Designed for B.Tech First Year Students                            ║
-║         Version 1.0                                                        ║
+║         EXPLAINABLE AI (XAI) REASONING ENGINE            ║
+║         Designed for B.Tech First Year Students          ║
+║         Version 1.0                                      ║
 ╚══════════════════════════════════════════════════════════╝
 
 What is XAI?
